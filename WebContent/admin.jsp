@@ -152,7 +152,7 @@ color:red;
 			
 			<div id="tooplate_menu">
 				<ul>
-					<li><a href="index.html" >Home</a></li>
+					<li><a href="index.html" >Home h</a></li>
 					<li><a href="admin.jsp" class="current">Admin</a></li>
 					<li><a href="login.jsp">User</a></li>
 					<li><a href="devp.jsp" >Developer</a></li>
