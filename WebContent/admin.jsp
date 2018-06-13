@@ -6,7 +6,7 @@
 	Template 2019 Pinko
     http://www.tooplate.com/view/2019-pinko
 -->
-<title> Community Awareness hiiiis </title>
+<title> good Community  iiii Awareness hiiiis </title>
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 <link href="tooplate_style.css" rel="stylesheet" type="text/css" />
