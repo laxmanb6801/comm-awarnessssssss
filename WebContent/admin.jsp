@@ -156,7 +156,7 @@ color:red;
 					<li><a href="admin.jsp" class="current">Admin  ssss</a></li>
 					<li><a href="login.jsp">User</a></li>
 					<li><a href="devp.jsp" >Developer dev ss</a></li>
-					<li><a href="logout.jsp">Logout</a></li>
+					<li><a href="logout.jsp">Logout G</a></li>
 					</ul>    	
 			</div> 
       <!-- end of tooplate_menu -->
